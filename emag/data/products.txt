@@ -1,0 +1,9 @@
+Teddy Bear|12.25|1|m,s|1|available
+Denim Slim|68.99|2|s,m,l,xl|0|expected
+Barbie Doll|45.36|1|s,m|1|available
+T-Shirt Marvel|41.23|2|s,l,xl|0|expected
+T-Shirt Marvel|12.45|1|s,m|1|available
+Laptop Lenovo|12.23|4|m,l|1|available
+Laptop Lenovo|1455.00|4|s|1|available
+Laptop Lenovo|1223.45|4|s|1|available|63df91ab73751.jpg
+Laptop Dell|1212.23|4|m|1|available|63df930fe14ff.jpg
